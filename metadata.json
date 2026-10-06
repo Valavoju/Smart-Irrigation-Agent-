@@ -1,0 +1,6 @@
+{
+  "name": "Smart Irrigation Agent",
+  "description": "Agentic AI system for intelligent agricultural water conservation and precision irrigation planning based on real-time multi-agent reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
